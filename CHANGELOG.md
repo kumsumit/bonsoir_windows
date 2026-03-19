@@ -1,3 +1,15 @@
+## 6.0.1
+
+ - **REFACTOR**: Finished renaming branch `master` into `main`. ([5c832e56](https://github.com/Skyost/Bonsoir/commit/5c832e56273eb90c19b502d1c53af71e1e9e085a))
+
+## 6.0.0
+
+> Note: This release has breaking changes.
+
+ - **FEAT**(windows): Implemented `BonsoirDiscoveryServiceUpdatedEvent` on Windows. ([8cb0b1dd](https://github.com/Skyost/Bonsoir/commit/8cb0b1ddc75bdaf0a56c9be60fe9c819ac591d26))
+ - **FEAT**: Added a `BonsoirDiscoveryServiceUpdatedEvent` event. ([75d3ee9d](https://github.com/Skyost/Bonsoir/commit/75d3ee9dbb49b7e1ea7167a4479a862c9184a931))
+ - **BREAKING** **REFACTOR**: Rewrote some parts of the project. ([e984f552](https://github.com/Skyost/Bonsoir/commit/e984f552b301de73b88cc577175b426de0618143))
+
 ## 5.1.5
 
 - **FIX**(windows): Fixed a crash when DNS client is stopping on Windows. ([5941f71](https://github.com/Skyost/Bonsoir/commit/5941f71cc275fe86b23f309e1c0e1dcfa6dd4d38))
